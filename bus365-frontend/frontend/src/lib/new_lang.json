@@ -1,0 +1,160 @@
+{
+  "total_special_luggage_fee": {
+    "en": "Total Special Luggage Fee",
+    "fr": "Frais Totaux pour Bagages Spéciaux",
+    "af": "Totale Spesiale Bagasiefooi",
+    "ar": "الرسوم الإجمالية للأمتعة الخاصة"
+  },
+  "sub_total": {
+    "en": "Sub Total",
+    "fr": "Sous-total",
+    "af": "Subtotaal",
+    "ar": "المجموع الفرعي"
+  },
+  "grand_total": {
+    "en": "Grand Total",
+    "fr": "Total Général",
+    "af": "Groot Totaal",
+    "ar": "الإجمالي العام"
+  },
+  "search_again_message": {
+    "en": "Please search again to get your desired trip or you may",
+    "fr": "Veuillez rechercher à nouveau pour obtenir votre voyage souhaité ou vous pouvez",
+    "af": "Soek asseblief weer om jou gewenste reis te kry of jy kan",
+    "ar": "يرجى البحث مرة أخرى للحصول على رحلتك المفضلة أو يمكنك"
+  },
+  "checkout": {
+    "en": "Checkout",
+    "fr": "Caisse",
+    "af": "Afhandeling ",
+    "ar": "الدفع"
+  },
+  "result_not_found": {
+    "en": "Result Not Found",
+    "fr": "Résultat non trouvé",
+    "af": "Geen Resultaat Gevind",
+    "ar": "لم يتم العثور على نتيجة"
+  },
+  "no_ticket_found": {
+    "en": "No Ticket Found",
+    "fr": "Aucun billet trouvé",
+    "af": "Geen Teken Gevind",
+    "ar": "لم يتم العثور على تذكرة"
+  },
+  "paid_luggage": {
+    "en": "Paid Luggage",
+    "fr": "Bagages Payés",
+    "af": "Betaalde Bagasie",
+    "ar": "الأمتعة المدفوعة"
+  },
+  "ticket_price": {
+    "en": "Ticket Price",
+    "fr": "Prix du Billet",
+    "af": "Tekenprys",
+    "ar": "سعر التذكرة"
+  },
+
+  "pay_for_both_tickets": {
+    "en": "Pay for both tickets",
+    "fr": "Payer pour les deux billets",
+    "af": "Betaal vir beide kaartjies",
+    "ar": "ادفع عن التذكرتين"
+  },
+  "pay_single": {
+    "en": "Pay single",
+    "fr": "Payer seul",
+    "af": "Betaal enkel",
+    "ar": "ادفع منفردًا"
+  },
+  "one_luggage": {
+    "en": "One luggage",
+    "fr": "Un bagage",
+    "af": "Een bagasie",
+    "ar": "حقائب واحدة"
+  },
+  "kg_is_free": {
+    "en": "kg is free",
+    "fr": "kg est gratuit",
+    "af": "kg is gratis",
+    "ar": "الكيلوغرام مجاني"
+  },
+  "special_luggage": {
+    "en": "Special Luggage",
+    "fr": "Bagages Spéciaux",
+    "af": "Spesiale Bagasie",
+    "ar": "الأمتعة الخاصة"
+  },
+  "max_length": {
+    "en": "Max Length",
+    "fr": "Longueur Max",
+    "af": "Max Lengte",
+    "ar": "الحد الأقصى للطول"
+  },
+  "meters": {
+    "en": "meters",
+    "fr": "mètres",
+    "af": "meters",
+    "ar": "أمتار"
+  },
+  "max_weight": {
+    "en": "Max Weight",
+    "fr": "Poids Max",
+    "af": "Max Gewig",
+    "ar": "الوزن الأقصى"
+  },
+  "and": {
+    "en": "and",
+    "fr": "et",
+    "af": "en",
+    "ar": "و"
+  },
+  "price_per_pcs": {
+    "en": "Price Per Pcs",
+    "fr": "Prix Par Pièce",
+    "af": "Prys Per Stuk",
+    "ar": "سعر لكل قطعة"
+  },
+  "refund_policy": {
+    "en": "Refund Policy",
+    "fr": "Politique de Remboursement",
+    "af": "Terugbetalingspolicy",
+    "ar": "سيا��ة الا��ترجا��"
+  },
+
+  "full_name": {
+    "en": "Full Name",
+    "fr": "Nom Complet",
+    "af": "Volledige Naam",
+    "ar": "الاسم الكامل"
+  },
+  "send_message": {
+    "en": "Send Message",
+    "fr": "Envoyer un Message",
+    "af": "Stuur Boodskap",
+    "ar": "إرسال رسالة"
+  },
+  "read_more": {
+    "en": "Read More",
+    "fr": "Lire la Suite",
+    "af": "Lees Meer",
+    "ar": "اقرأ المزيد"
+  },
+  "seat_limit_exceeded": {
+    "en": "You can't take more than from total selected seats.",
+    "fr": "Vous ne pouvez pas prendre plus de  des sièges sélectionnés.",
+    "af": "U kan nie meer as van die totaal geselekteerde sitplekke neem nie.",
+    "ar": "لا يمكنك أخذ أكثر من  من إجمالي المقاعد المحددة."
+  },
+  "children_seats_only": {
+    "en": "Seat(s) are available only for children.",
+    "fr": "Le(s) siège(s) ne sont disponible(s) que pour les enfants.",
+    "af": "Sitplek(ke) is slegs beskikbaar vir kinders.",
+    "ar": "المقعد (المقاعد) متاحة فقط للأطفال."
+  },
+  "you_only_selected": {
+    "en": "You only selected: ",
+    "fr": "Vous n'avez sélectionné que : ",
+    "af": "Jy het net gekies: ",
+    "ar": "لقد اخترت فقط: "
+  }
+}
